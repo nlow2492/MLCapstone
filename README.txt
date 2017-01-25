@@ -6,7 +6,11 @@
 
 This project requires **Python 2.7**
 
-### Libraries Used
+### Data
+This project uses datasets provided by Kaggle's Facial Keypoints Detection competition that can be retrieved at
+https://www.kaggle.com/c/facial-keypoints-detection/data
+
+### Libraries
 1. matplotlib
 2. sklearn
 3. pandas
